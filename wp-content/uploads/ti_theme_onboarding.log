@@ -1,0 +1,17 @@
+[11/Jun/2020:11:01:54] (ℹ️): WordPress Instance Info:
+[11/Jun/2020:11:01:54] (ℹ️): Home URL : http://localhost/calliope
+[11/Jun/2020:11:01:54] (ℹ️): Site URL : http://localhost/calliope
+[11/Jun/2020:11:01:54] (ℹ️): WordPress Version : 5.4.2
+[11/Jun/2020:11:01:54] (ℹ️): Onboarding Version : 1.8.2
+[11/Jun/2020:11:01:54] (ℹ️): Multisite : No
+[11/Jun/2020:11:01:54] (ℹ️): Server Info : Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.6
+[11/Jun/2020:11:01:54] (ℹ️): PHP Version : 7.4.6
+[11/Jun/2020:11:01:54] (ℹ️): HTTPS : No
+[11/Jun/2020:11:01:54] (ℹ️): PHP Max Execution Time : 120
+[11/Jun/2020:11:01:54] (ℹ️): PHP Max Input Vars : 1000
+[11/Jun/2020:11:01:54] (ℹ️): Max Upload Size : 41943040
+[11/Jun/2020:11:01:54] (ℹ️): Plugins:
+[11/Jun/2020:11:01:54] (ℹ️): [PLUGIN] Newsletter, SMTP, Email marketing and Subscribe forms by Sendinblue : v2.9.17 (Sendinblue)
+[11/Jun/2020:11:01:54] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.9.9 (Themeisle)
+[11/Jun/2020:11:01:54] (ℹ️): [PLUGIN] WooCommerce : v4.2.0 (Automattic)
+[11/Jun/2020:11:01:54] (ℹ️): [PLUGIN] WPForms Lite : v1.6.0.2 (WPForms)
